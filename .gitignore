@@ -1,0 +1,4 @@
+#ignore all spice simulation files
+*/*.log
+*/*.raw
+*/*.net
