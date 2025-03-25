@@ -1,0 +1,13 @@
+Added Component: Designator=S1(Screw-2)
+Added Component: Designator=S2(Screw-2)
+Added Component: Designator=S3(Screw-3)
+Added Pin To Net: NetName=Input Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=Output Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=+37V Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=-37V Pin=S3-3
+Added Member To Class: ClassName=power_amp Member=Component S1 Screw 2
+Added Member To Class: ClassName=power_amp Member=Component S2 Screw 2
+Added Member To Class: ClassName=power_amp Member=Component S3 Screw 3

@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=Q1 Old Footprint=FP-135AR-MFG New Footprint=FP-135AR-MFG
+Change Component Footprint: Designator=Q2 Old Footprint=FP-135AR-MFG New Footprint=FP-135AR-MFG
+Change Component Footprint: Designator=Q4 Old Footprint=FP-135AR-MFG New Footprint=FP-135AR-MFG
+Change Component Footprint: Designator=Q5 Old Footprint=FP-135AR-MFG New Footprint=FP-135AR-MFG
+Change Component Footprint: Designator=D1 Old Footprint=SMB New Footprint=Diode 2 space
+Change Component Footprint: Designator=D2 Old Footprint=SMB New Footprint=Diode 2 space
+Change Component Footprint: Designator=D3 Old Footprint=SMB New Footprint=Diode 2 space
+Change Component Comment : Designator=D1 Old Comment=Diode New Comment=Diode DO-35
+Change Component Comment : Designator=D2 Old Comment=Diode New Comment=Diode DO-35
+Change Component Comment : Designator=D3 Old Comment=Diode New Comment=Diode DO-35
