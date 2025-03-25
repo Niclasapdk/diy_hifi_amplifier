@@ -50,13 +50,21 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+<<<<<<< HEAD
 DocumentPath=power_amp.SchDoc
+=======
+DocumentPath=main.SchDoc
+>>>>>>> a8586ef3b675ca555001559b49d32ce15ae31c46
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
+<<<<<<< HEAD
 AnnotateOrder=0
+=======
+AnnotateOrder=-1
+>>>>>>> a8586ef3b675ca555001559b49d32ce15ae31c46
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -64,10 +72,16 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=AIEQEAPD
 
 [Document2]
 DocumentPath=main.PcbDoc
+=======
+DocumentUniqueId=DFQZVRUB
+
+[Document2]
+DocumentPath=BC547.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -81,7 +95,63 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document3]
+DocumentPath=BC557.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document4]
+DocumentPath=SOT54A.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
+DocumentPath=TO92.PcbLib
+>>>>>>> a8586ef3b675ca555001559b49d32ce15ae31c46
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=YCVMUWUM
+=======
+DocumentUniqueId=
+>>>>>>> a8586ef3b675ca555001559b49d32ce15ae31c46
 
 [Configuration1]
 Name=Sources
