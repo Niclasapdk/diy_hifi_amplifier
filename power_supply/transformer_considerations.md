@@ -40,11 +40,11 @@ Notes:
 
 Could get two of these and wire them in series to create 40VAC, expensive solution though.
 
-### 230VAC primary, 35VAC 2 secondary 300VA rated transformer
-https://dk.rs-online.com/web/p/ringkernetransformere/1233990
+### 230VAC primary, 30VAC 2 secondary 500VA rated transformer
+https://dk.rs-online.com/web/p/ringkernetransformere/1234031
 
-### 230VAC primary, 40VAC 2 secondary 625VA rated transformer for stereo
-https://dk.rs-online.com/web/p/ringkernetransformere/1233998
+### 230VAC primary, 30VAC 2 secondary 500VA rated transformer for stereo
+https://dk.rs-online.com/web/p/ringkernetransformere/1234032
 
 Notes: 
 
